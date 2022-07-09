@@ -49,6 +49,7 @@ body{
     border-radius: 8px;
     border: none;
     background-color: var(--white);
+    margin-right: 10px;
 }
 .agregar-tarea i{
     font-size: 45px;
